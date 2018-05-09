@@ -1,0 +1,12 @@
+The % breakdown of the original IPs for 60 sec timeout:
+
+
+Labrea: 2.372
+Delude: 0.726
+Tarpit: 0.672
+Real Host: 58.658
+Zero Window: 0.156
+No response: 9.786
+Rejecting: 1.066
+Unreachable: 16.882
+Error: 9.682

@@ -1,0 +1,7 @@
+For the 60 second timeout:
+
+-theoutput.csv is the file containing the subnet wise analysis of the output as given by degreaser on 1355*256 IPs (these 1355 unique subnets were extracted from the original 50k IPs. These ips are given in tarpits_sample.txt)
+-packetfile.pcap is the corresponding pcap file for this particular degreaser run.
+-I filtered out the original 50k IPs from the aforementioned output file and summarized the results in ResultsOfC60.txt, which contains the % of tarpits, realhosts, and other hosts in the orginal 50k. 
+
+
